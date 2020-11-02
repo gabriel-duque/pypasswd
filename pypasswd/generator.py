@@ -108,7 +108,7 @@ def main() -> None:
     """This function is to be called as a script using the ``pypasswd``
     command.
 
-    ``main`` will parse arguments, create a ``PasswordGenerator`` object then
+    ``main`` will parse arguments, create a ``PasswdGenerator`` object then
     call it as many times as required to get passwords.
 
     """
