@@ -63,7 +63,7 @@ class PasswdGenerator:
         of ``strict`` is not a boolean.
 
         A ``ValueError`` is raised if the asked length is smaller of equal to
-        ``0`` or if ``strict`` is ``True` and the wanted length is smaller
+        ``0`` or if ``strict`` is ``True`` and the wanted length is smaller
         than the length of the character set list.
 
         :param length: length of the password to generate
